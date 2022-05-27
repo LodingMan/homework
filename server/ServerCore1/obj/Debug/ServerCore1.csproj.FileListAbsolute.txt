@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\homework\server\ServerCore1\bin\Debug\ServerCore1.exe.config
+C:\Users\Administrator\Desktop\homework\server\ServerCore1\bin\Debug\ServerCore1.exe
+C:\Users\Administrator\Desktop\homework\server\ServerCore1\bin\Debug\ServerCore1.pdb
+C:\Users\Administrator\Desktop\homework\server\ServerCore1\obj\Debug\ServerCore1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\homework\server\ServerCore1\obj\Debug\ServerCore1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\homework\server\ServerCore1\obj\Debug\ServerCore1.exe
+C:\Users\Administrator\Desktop\homework\server\ServerCore1\obj\Debug\ServerCore1.pdb

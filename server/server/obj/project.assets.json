@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\homework\\server\\server\\server.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\homework\\HomeWork2\\homework\\server\\server\\server.csproj",
       "projectName": "server",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\homework\\server\\server\\server.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\homework\\HomeWork2\\homework\\server\\server\\server.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\homework\\server\\server\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\homework\\HomeWork2\\homework\\server\\server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

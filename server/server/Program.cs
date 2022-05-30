@@ -1,58 +1,65 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
+using System.Text;
+using System.Threading;
+using ServerCore1;
+
 
 namespace server
 {
+    class GameSession : Session
+    {
+        public override void OnConnected(EndPoint endPoint)
+        {
+            Console.WriteLine($"OnConnected : {endPoint}");
+
+            byte[] sendBuff = Encoding.UTF8.GetBytes("Welcome to MMORPG server!");
+            Send(sendBuff);
+            Thread.Sleep(1000);
+            Disconnect();
+
+        }
+
+        public override void OnDisconnected(EndPoint endPoint)
+        {
+            Console.WriteLine($"OnDisconnected : {endPoint}");
+
+        }
+
+        public override void OnRecv(ArraySegment<byte> buffer)
+        {
+            string recvData = Encoding.UTF8.GetString(buffer.Array, buffer.Offset, buffer.Count);
+            Console.WriteLine($"[From Client] {recvData}");
+        }
+
+        public override void OnSend(int numOfbytes)
+        {
+            Console.WriteLine($"Transferred Bytes: {numOfbytes}");
+
+        }
+    }
+
     class Program
     {
-        TcpListener listener;
+        static Listener _listener = new Listener();
+
         static void Main(string[] args)
         {
-            TcpListener listener = new TcpListener(IPAddress.Any, 3000);
-            listener.Start();
+            string host = Dns.GetHostName();
+            IPHostEntry ipHost = Dns.GetHostEntry(host);
+            IPAddress ipAddr = ipHost.AddressList[0];
+            IPEndPoint endPoint = new IPEndPoint(ipAddr, 7777);
 
-            TcpClient client = listener.AcceptTcpClient();
-
-
-
-            listener.Stop();
-
-            Console.WriteLine(IPAddress.Any);
-
-
-         }
-
-
-
-        private IPAddress GetExternalIPAddress()
-        {
-            string externalIPString = new WebClient().DownloadString("http://icanhazip.com");
-
-            char[] externalIPArray = externalIPString.ToCharArray();
-
-            string externalIP = string.Empty;
-
-            for (int i = 0; i < externalIPArray.Length; i++)
+            _listener.Init(endPoint, () => { return new GameSession(); });
+            while (true)
             {
-                if (externalIPArray[i] == '\n')
-                {
-                    continue;
-                }
-
-                externalIP = externalIP + externalIPArray[i];
+                //  Console.WriteLine("Listening...");
             }
 
-            return IPAddress.Parse(externalIP);
+
         }
+
 
     }
 }

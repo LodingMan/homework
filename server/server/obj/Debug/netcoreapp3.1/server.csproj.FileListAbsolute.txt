@@ -11,3 +11,7 @@ C:\Users\Administrator\Desktop\homework\server\server\bin\Debug\netcoreapp3.1\se
 C:\Users\Administrator\Desktop\homework\server\server\obj\Debug\netcoreapp3.1\server.dll
 C:\Users\Administrator\Desktop\homework\server\server\obj\Debug\netcoreapp3.1\server.pdb
 C:\Users\Administrator\Desktop\homework\server\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\homework\server\server\bin\Debug\netcoreapp3.1\ServerCore1.dll
+C:\Users\Administrator\Desktop\homework\server\server\bin\Debug\netcoreapp3.1\ServerCore1.pdb
+C:\Users\Administrator\Desktop\homework\server\server\bin\Debug\netcoreapp3.1\ServerCore1.dll.config
+C:\Users\Administrator\Desktop\homework\server\server\obj\Debug\netcoreapp3.1\server.csproj.CopyComplete

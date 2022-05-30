@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\homework\\HomeWork2\\homework\\server\\DummyClient\\DummyClient.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\homework\\server\\DummyClient\\DummyClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\homework\\HomeWork2\\homework\\server\\DummyClient\\DummyClient.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\homework\\server\\DummyClient\\DummyClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\homework\\HomeWork2\\homework\\server\\DummyClient\\DummyClient.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\homework\\server\\DummyClient\\DummyClient.csproj",
         "projectName": "DummyClient",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\homework\\HomeWork2\\homework\\server\\DummyClient\\DummyClient.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\homework\\server\\DummyClient\\DummyClient.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\homework\\HomeWork2\\homework\\server\\DummyClient\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\homework\\server\\DummyClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Administrator\\Desktop\\homework\\server\\ServerCore1\\ServerCore1.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Desktop\\homework\\server\\ServerCore1\\ServerCore1.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -56,6 +60,16 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\Administrator\\Desktop\\homework\\server\\ServerCore1\\ServerCore1.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\homework\\server\\ServerCore1\\ServerCore1.csproj",
+        "projectName": "ServerCore1",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\homework\\server\\ServerCore1\\ServerCore1.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

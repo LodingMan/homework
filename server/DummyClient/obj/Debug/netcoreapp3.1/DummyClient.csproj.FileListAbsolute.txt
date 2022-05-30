@@ -11,3 +11,7 @@ C:\Users\Administrator\Desktop\homework\server\DummyClient\obj\Debug\netcoreapp3
 C:\Users\Administrator\Desktop\homework\server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.dll
 C:\Users\Administrator\Desktop\homework\server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.pdb
 C:\Users\Administrator\Desktop\homework\server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\homework\server\DummyClient\bin\Debug\netcoreapp3.1\ServerCore1.dll
+C:\Users\Administrator\Desktop\homework\server\DummyClient\bin\Debug\netcoreapp3.1\ServerCore1.pdb
+C:\Users\Administrator\Desktop\homework\server\DummyClient\bin\Debug\netcoreapp3.1\ServerCore1.dll.config
+C:\Users\Administrator\Desktop\homework\server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.CopyComplete

@@ -9,3 +9,14 @@ C:\Users\Administrator\Desktop\homework\server\Server1\obj\Debug\Server1.csproj.
 C:\Users\Administrator\Desktop\homework\server\Server1\obj\Debug\Server1.csproj.CopyComplete
 C:\Users\Administrator\Desktop\homework\server\Server1\obj\Debug\Server1.exe
 C:\Users\Administrator\Desktop\homework\server\Server1\obj\Debug\Server1.pdb
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\bin\Debug\Server1.exe.config
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\bin\Debug\Server1.exe
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\bin\Debug\Server1.pdb
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\bin\Debug\ServerCore1.dll
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\bin\Debug\ServerCore1.pdb
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\bin\Debug\ServerCore1.dll.config
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\obj\Debug\Server1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\obj\Debug\Server1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\obj\Debug\Server1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\obj\Debug\Server1.exe
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\obj\Debug\Server1.pdb

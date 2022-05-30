@@ -5,3 +5,10 @@ C:\Users\Administrator\Desktop\homework\server\ServerCore1\obj\Debug\ServerCore1
 C:\Users\Administrator\Desktop\homework\server\ServerCore1\bin\Debug\ServerCore1.dll.config
 C:\Users\Administrator\Desktop\homework\server\ServerCore1\bin\Debug\ServerCore1.dll
 C:\Users\Administrator\Desktop\homework\server\ServerCore1\obj\Debug\ServerCore1.dll
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\ServerCore1\bin\Debug\ServerCore1.dll.config
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\ServerCore1\bin\Debug\ServerCore1.dll
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\ServerCore1\bin\Debug\ServerCore1.pdb
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\ServerCore1\obj\Debug\ServerCore1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\ServerCore1\obj\Debug\ServerCore1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\ServerCore1\obj\Debug\ServerCore1.dll
+C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\ServerCore1\obj\Debug\ServerCore1.pdb

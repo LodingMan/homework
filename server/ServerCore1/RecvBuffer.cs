@@ -23,6 +23,7 @@ namespace ServerCore1
         public ArraySegment<byte> WriteSegment
         {
             get { return new ArraySegment<byte>(_buffer.Array, _buffer.Offset + _writePos, FreeSize); }
+            
         }
 
         public void Clean()

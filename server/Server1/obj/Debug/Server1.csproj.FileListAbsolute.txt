@@ -20,3 +20,14 @@ C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\obj\De
 C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\obj\Debug\Server1.csproj.CopyComplete
 C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\obj\Debug\Server1.exe
 C:\Users\Administrator\Desktop\homework\HomeWork2\homework\server\Server1\obj\Debug\Server1.pdb
+C:\Users\nicer\Desktop\study\Job\homework\server\Server1\bin\Debug\Server1.exe.config
+C:\Users\nicer\Desktop\study\Job\homework\server\Server1\bin\Debug\Server1.exe
+C:\Users\nicer\Desktop\study\Job\homework\server\Server1\bin\Debug\Server1.pdb
+C:\Users\nicer\Desktop\study\Job\homework\server\Server1\bin\Debug\ServerCore1.dll
+C:\Users\nicer\Desktop\study\Job\homework\server\Server1\bin\Debug\ServerCore1.pdb
+C:\Users\nicer\Desktop\study\Job\homework\server\Server1\bin\Debug\ServerCore1.dll.config
+C:\Users\nicer\Desktop\study\Job\homework\server\Server1\obj\Debug\Server1.csproj.AssemblyReference.cache
+C:\Users\nicer\Desktop\study\Job\homework\server\Server1\obj\Debug\Server1.csproj.CoreCompileInputs.cache
+C:\Users\nicer\Desktop\study\Job\homework\server\Server1\obj\Debug\Server1.csproj.CopyComplete
+C:\Users\nicer\Desktop\study\Job\homework\server\Server1\obj\Debug\Server1.exe
+C:\Users\nicer\Desktop\study\Job\homework\server\Server1\obj\Debug\Server1.pdb

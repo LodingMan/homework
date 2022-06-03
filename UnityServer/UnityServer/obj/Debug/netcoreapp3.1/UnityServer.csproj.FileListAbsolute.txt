@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.exe
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.deps.json
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.runtimeconfig.json
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.dll
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.pdb
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.dll
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.pdb
+C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.genruntimeconfig.cache

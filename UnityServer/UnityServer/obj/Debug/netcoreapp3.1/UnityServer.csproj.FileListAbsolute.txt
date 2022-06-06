@@ -11,3 +11,17 @@ C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\obj\Debug\netcor
 C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.dll
 C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.pdb
 C:\Users\Administrator\Desktop\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.genruntimeconfig.cache
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.exe
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.deps.json
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.runtimeconfig.json
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.runtimeconfig.dev.json
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.dll
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.pdb
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.csproj.AssemblyReference.cache
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.AssemblyInfoInputs.cache
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.AssemblyInfo.cs
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.csproj.CoreCompileInputs.cache
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.dll
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.pdb
+C:\Users\nicer\Desktop\study\Job\homework\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.genruntimeconfig.cache

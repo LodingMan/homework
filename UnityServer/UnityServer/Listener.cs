@@ -3,6 +3,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 using System.Text;
+using System.Collections.Generic;
 
 namespace UnityServer
 {
@@ -12,7 +13,6 @@ namespace UnityServer
         Socket ServerSocket;
 
         Func<Session> _sessionOn;
-
 
         public void ListenOn(EndPoint endPoint, Func<Session> sessionOn)
         {
@@ -48,6 +48,9 @@ namespace UnityServer
                 Console.WriteLine("AcceptSuccess");
                 Session session = _sessionOn.Invoke();
                 session.SessionOn(args.AcceptSocket);
+                Thread.Sleep(500);
+
+                Console.WriteLine("로그인 이후");
             }
             else
             {
@@ -55,6 +58,7 @@ namespace UnityServer
             }
             RegistLintener(args);
         }
+
 
     }
 
